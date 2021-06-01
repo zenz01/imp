@@ -12,7 +12,7 @@ This installs the available RPM from EPEL, currently version 0.7.1
 
 If nano, wget and firewalld are not installed, you can do with:
 
-    yum install nano && yum install wget && yum install firewalld
+    yum install nano && yum install wget && yum install firewalld && yum install net-tools
 
 Download and run with these lines :
 
