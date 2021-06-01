@@ -16,7 +16,7 @@ If nano, wget and firewalld are not installed, you can do with:
 
 Download and run with these lines :
 
-    wget --no-check-certificate https://raw.githubusercontent.com/h1777/3proxy-rhel/master/3proxyinstaller.sh
+    wget --no-check-certificate https://raw.githubusercontent.com/zenz01/imp/master/3proxyinstaller.sh?token=AUJ7AU4Q7QH34CFJKAWB6B3AW2CAY
     chmod +x 3proxyinstaller.sh
     ./3proxyinstaller.sh
 
